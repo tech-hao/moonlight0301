@@ -1,9 +1,9 @@
- 
+<img align="right" alt="Coding" width="100%" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"> 
 <h1 align="center">
-  👋 Hi, I’m @moonlight0301
+  👋 Hi, I’m Hao Teng
 </h1>
 
-
+<h3 align="center">HIT Computer Science and Technology Student</h3>
 
 
 
